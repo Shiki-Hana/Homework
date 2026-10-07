@@ -1,0 +1,5 @@
+# Tested on Python 3.9.25. CPU wheels also work; CUDA is optional.
+torch==2.6.0
+torchvision==0.21.0
+numpy==2.0.2
+matplotlib==3.9.4
